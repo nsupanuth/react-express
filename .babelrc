@@ -1,0 +1,14 @@
+{
+    "presets": [
+        "stage-3",
+        "react",
+        [
+            "env", {
+                "modules" : false
+            }
+        ]
+    ],
+    "plugins": [
+        "transform-class-properties"
+    ]
+}
